@@ -1,6 +1,6 @@
 # Majin Retail Analytics
 <p align="center">
-  <img src="https://github.com/alfimerino/majin-retail-analytics/blob/MJ-104-Visualize-Spring-2025-performance-for-Majin-Stakeholders/assets/majin-logo.PNG" alt="Project Banner" width="1200">
+  <img src="assets/majin-logo.PNG" alt="Project Banner" width="1200">
 </p>
 **Transforming raw POS transaction logs into actionable promotional performance insights.**
 
@@ -12,7 +12,7 @@ Currently in early development — focused on delivering the first end-to-end MV
 
 **Goal**: Transform raw POS logs into a cleaned, interactive dashboard to evaluate last year’s promo performance.
 
-<img src="https://github.com/alfimerino/majin-retail-analytics/blob/MJ-104-Visualize-Spring-2025-performance-for-Majin-Stakeholders/assets/Majin%20Spring%20Dashboard%20Screenshot.jpg" alt="Project Banner" width="1200">
+<img src="assets/Majin Spring Dashboard Screenshot.jpg" alt="Project Banner" width="1200">
 
 Key deliverables in progress:
 - Project setup & tooling (MJ-101)
